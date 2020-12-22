@@ -1,9 +1,9 @@
-﻿local L = DBM:GetModLocalization("DBM-LegionFishing")
+﻿local L = DBM:GetModLocalization("FishingLegion")
 
 L:SetGeneralLocalization({
 	name	= "Legion Fishing"
 })
 
 L:SetTimerLocalization({
-	TimerBuff	= "Buff: "
+	TimerBuff	= "Buff"
 })
