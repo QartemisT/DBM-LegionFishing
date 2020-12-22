@@ -1,0 +1,20 @@
+﻿## Interface: 90002
+## X-Min-Interface: 80000
+## Title:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0LegionFishing|r
+## Author: QartemisT
+## LoadOnDemand: 1
+## RequiredDeps: DBM-Core
+## X-DBM-Mod: 1
+## X-DBM-Mod-Type: OTHER
+## X-DBM-Mod-Category: OTHER
+## X-DBM-Mod-No-Statistics: 1
+## X-DBM-Mod-Name: LegionFishing
+## X-DBM-Mod-Sort: 1500
+## X-DBM-Mod-MapID: 1220
+## X-DBM-Mod-MinExpansion: 6
+## X-Curse-Project-ID: 430303
+## Version: @project-version@
+
+localization.en.lua
+
+LegionFishing.lua

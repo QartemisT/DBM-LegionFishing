@@ -1,0 +1,5 @@
+package-as: DBM-LegionFishing
+enable-nolib-creation: no
+
+move-folders:
+  DBM-LegionFishing/DBM-LegionFishing: DBM-LegionFishing
