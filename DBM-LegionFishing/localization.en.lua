@@ -1,4 +1,4 @@
-﻿local L = DBM:GetModLocalization("DBM-LogoutTimer")
+﻿local L = DBM:GetModLocalization("DBM-LegionFishing")
 
 L:SetGeneralLocalization({
 	name	= "Legion Fishing"
