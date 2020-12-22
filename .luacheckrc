@@ -12,5 +12,6 @@ globals = {
 	"DBM_DISABLE_ZONE_DETECTION",
 
 	-- WoW
+	"C_Map.GetBestMapForUnit",
 	"GetLocale"
 }
