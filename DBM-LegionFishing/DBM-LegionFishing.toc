@@ -1,6 +1,7 @@
 ## Interface: 100007
 ## X-Min-Interface: 80000
 ## Title:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0LegionFishing|r
+## Title-ruRU: |cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Рыбалка в Легионе|r
 ## Author: QartemisT
 ## LoadOnDemand: 1
 ## RequiredDeps: DBM-Core
@@ -11,6 +12,7 @@
 ## X-DBM-Mod-Category: OTHER
 ## X-DBM-Mod-No-Statistics: 1
 ## X-DBM-Mod-Name: LegionFishing
+## X-DBM-Mod-Name-ruRU: Рыбалка в Легионе
 ## X-DBM-Mod-Sort: 1500
 ## X-DBM-Mod-MapID: 1220
 ## X-DBM-Mod-MinExpansion: 6
@@ -18,5 +20,6 @@
 ## X-Wago-ID: PANzZwN4
 
 localization.en.lua
+localization.ru.lua
 
 LegionFishing.lua
