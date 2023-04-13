@@ -1,9 +1,11 @@
-## Interface: 100002
+## Interface: 100007
 ## X-Min-Interface: 80000
 ## Title:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0LegionFishing|r
 ## Author: QartemisT
 ## LoadOnDemand: 1
 ## RequiredDeps: DBM-Core
+## Version: @project-version@
+## IconTexture: Interface\AddOns\DBM-Core\textures\dbm_airhorn
 ## X-DBM-Mod: 1
 ## X-DBM-Mod-Type: OTHER
 ## X-DBM-Mod-Category: OTHER
@@ -14,7 +16,6 @@
 ## X-DBM-Mod-MinExpansion: 6
 ## X-Curse-Project-ID: 430303
 ## X-Wago-ID: PANzZwN4
-## Version: @project-version@
 
 localization.en.lua
 
