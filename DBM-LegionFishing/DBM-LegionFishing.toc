@@ -1,7 +1,7 @@
-## Interface: 100205
+## Interface: 100206
 ## X-Min-Interface: 80000
-## Title:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0LegionFishing|r
-## Title-ruRU: |cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Рыбалка в Легионе|r
+## Title:|cffffe00a<|r|cffff7d0aDBM Extra|r|cffffe00a>|r |cff69ccf0Legion Fishing|r
+## Title-ruRU: |cffffe00a<|r|cffff7d0aDBM Extra|r|cffffe00a>|r |cff69ccf0Рыбалка в Легионе|r
 ## Author: QartemisT
 ## LoadOnDemand: 1
 ## RequiredDeps: DBM-Core
