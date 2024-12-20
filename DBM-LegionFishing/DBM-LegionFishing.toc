@@ -1,4 +1,4 @@
-## Interface: 110002
+## Interface: 110007, 110100
 ## X-Min-Interface: 80000
 ## Title:|cffffe00a<|r|cffff7d0aDBM Extra|r|cffffe00a>|r |cff69ccf0Legion Fishing|r
 ## Title-ruRU: |cffffe00a<|r|cffff7d0aDBM Дополнение|r|cffffe00a>|r |cff69ccf0Рыбалка в Легионе|r
